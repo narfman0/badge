@@ -1,0 +1,12 @@
+<Configuration>
+ <BTLibrary>
+  <BTFile>behaviorTree.xbt</BTFile>
+  <LibraryClassName>BadgeBotBTLibrary</LibraryClassName>
+  <LibraryPackage>com.blastedstudios.badge.server.ai.bt</LibraryPackage>
+  <LibraryOutputDirectory>src/com/blastedstudios/badge/server/ai/bt</LibraryOutputDirectory>
+  <DomainFile>BadgeBotDomain.xml</DomainFile>
+  <ModelActionsPackage>com.blastedstudios.badge.server.ai.bt.actions</ModelActionsPackage>
+  <ModelConditionsPackage>com.blastedstudios.badge.server.ai.bt.conditions</ModelConditionsPackage>
+ </BTLibrary>
+</Configuration>
+

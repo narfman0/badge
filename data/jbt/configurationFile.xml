@@ -1,0 +1,12 @@
+<Configuration>
+  <DomainFile>BadgeBotDomain.xml</DomainFile>
+  <ModelActionsPackage>com.blastedstudios.badge.server.ai.bt.actions</ModelActionsPackage>
+  <ModelConditionsPackage>com.blastedstudios.badge.server.ai.bt.conditions</ModelConditionsPackage>
+  <ModelActionsOutputDirectory>src/com/blastedstudios/badge/server/ai/bt/actions</ModelActionsOutputDirectory>
+  <ModelConditionsOutputDirectory>src/com/blastedstudios/badge/server/ai/bt/conditions</ModelConditionsOutputDirectory>
+  <ExecutionActionsPackage>com.blastedstudios.badge.server.ai.bt.actions.execution</ExecutionActionsPackage>
+  <ExecutionConditionsPackage>com.blastedstudios.badge.server.ai.bt.conditions.execution</ExecutionConditionsPackage>
+  <ExecutionActionsOutputDirectory>src/com/blastedstudios/badge/server/ai/bt/actions/execution</ExecutionActionsOutputDirectory>
+  <ExecutionConditionsOutputDirectory>src/com/blastedstudios/badge/server/ai/bt/conditions/execution</ExecutionConditionsOutputDirectory>
+</Configuration>
+
